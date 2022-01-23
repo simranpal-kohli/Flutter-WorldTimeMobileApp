@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Motivation: 
 This application is a basic Mobile App to understanding the functionality of building FlutterApp.
+
+## Reference:
+https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
